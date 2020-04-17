@@ -127,7 +127,7 @@ class OrderState extends State<Order> {
           stream: Firestore.instance.collection("Customers").snapshots(),
           builder: (context, snapshot) {
             if (!snapshot.hasData){
-             return new Text("loading");}
+             return new Text("loading..");}
             else
 
               for (int i = 0; i < snapshot.data.documents.length; i++) {
