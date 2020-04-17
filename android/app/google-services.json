@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36473121979",
+    "firebase_url": "https://businessmanager-ebf22.firebaseio.com",
+    "project_id": "businessmanager-ebf22",
+    "storage_bucket": "businessmanager-ebf22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36473121979:android:dc2b445bda9a04cf248d9e",
+        "android_client_info": {
+          "package_name": "com.abdo.business_manger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36473121979-g9odmauu58pk8barkvkp8p8huogp128v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY_K5j4HNsKEpkcZ_qlArkWQX6S0woqhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36473121979-g9odmauu58pk8barkvkp8p8huogp128v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
